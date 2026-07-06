@@ -195,3 +195,5 @@ stayed the focus:
   sharing logic through `internal/` packages.
 - A relationally correct schema (foreign key + cascade) instead of
   denormalized duplication.
+
+CHECK OUT MY OTHER (GO PROJECT) - https://github.com/UmaanBanjara/sport-betting-engine
